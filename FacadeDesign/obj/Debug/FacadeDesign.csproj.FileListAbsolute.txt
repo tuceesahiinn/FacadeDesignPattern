@@ -1,0 +1,12 @@
+C:\Users\demo\Desktop\FacadeDesign\FacadeDesign\bin\Debug\FacadeDesign.exe.config
+C:\Users\demo\Desktop\FacadeDesign\FacadeDesign\bin\Debug\FacadeDesign.exe
+C:\Users\demo\Desktop\FacadeDesign\FacadeDesign\bin\Debug\FacadeDesign.pdb
+C:\Users\demo\Desktop\FacadeDesign\FacadeDesign\obj\Debug\FacadeDesign.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\FacadeDesign\FacadeDesign\obj\Debug\FacadeDesign.exe
+C:\Users\demo\Desktop\FacadeDesign\FacadeDesign\obj\Debug\FacadeDesign.pdb
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\FacadeDesign\FacadeDesign\bin\Debug\FacadeDesign.exe.config
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\FacadeDesign\FacadeDesign\bin\Debug\FacadeDesign.exe
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\FacadeDesign\FacadeDesign\bin\Debug\FacadeDesign.pdb
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\FacadeDesign\FacadeDesign\obj\Debug\FacadeDesign.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\FacadeDesign\FacadeDesign\obj\Debug\FacadeDesign.exe
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\FacadeDesign\FacadeDesign\obj\Debug\FacadeDesign.pdb
